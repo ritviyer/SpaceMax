@@ -1,7 +1,7 @@
-*/.vs/
-*/[Ll]ibrary/
-*/[Oo]bj/
-*/[Tt]emp/
+*.vs/
+*[Ll]ibrary/
+*[Oo]bj/
+*[Tt]emp/
 *.csproj
 *.sln
 *.tmp
